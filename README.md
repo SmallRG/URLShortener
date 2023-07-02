@@ -6,13 +6,12 @@
 ---
 
 ## Features
----
+
 * Allow users to convert URL to a short version.
 * There's a copy button to copy the new URL for users.
 * There's a redirect button for users to gernerate new URL.
 
 ##  Requirement 
----
 * body-parser:^1.20.2
 * mongoose:5.9.7
 * valid-url:1.0.9
